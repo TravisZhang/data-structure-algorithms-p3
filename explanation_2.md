@@ -8,7 +8,7 @@ The time complexity is O(log(n)), because we are dividing the list in half each 
 &emsp;n/2^m = 1  
 With some deduction we get  
 &emsp;m = log(n)
-So the time complexity is O(m) = O(log(n))
+&emsp;So the time complexity is O(m) = O(log(n))
 
 ### Space Complexity
 

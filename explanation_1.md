@@ -8,7 +8,7 @@ The time complexity is O(log(n)), because we are dividing n by 2 each time for m
 &emsp;(n/2^m)^2 = n  
 With some deduction we get  
 &emsp;m = log(n) - 1  
-So the time complexity is O(m) = O(log(n))
+&emsp;So the time complexity is O(m) = O(log(n))
 
 ### Space Complexity
 
